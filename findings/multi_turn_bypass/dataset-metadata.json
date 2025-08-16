@@ -1,0 +1,7 @@
+{
+  "title": "Multi-turn Eval Awareness Bypass",
+  "id": "vaasuagarwal/multi-turn-conversation-eval-bypass",
+  "licenses": [{ "name": "CC0-1.0" }],
+  "description": "85% success rate bypass using multi-turn conversation context for GPT-OSS-20B. Includes raw JSON evidence.",
+  "visibility": "private"
+}

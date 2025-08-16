@@ -1,0 +1,7 @@
+{
+  "title": "Statistical Baseline Concealment Pattern",
+  "id": "vaasuagarwal/statistical-baseline-concealment-pattern",
+  "licenses": [{ "name": "CC0-1.0" }],
+  "description": "95% concealment rate in AI safety queries for GPT-OSS-20B, revealing evaluation awareness infrastructure.",
+  "visibility": "private"
+}

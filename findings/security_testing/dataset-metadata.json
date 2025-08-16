@@ -1,0 +1,7 @@
+{
+  "title": "Security Testing Perfect Bypass",
+  "id": "vaasuagarwal/security-testing-perfect-bypass",
+  "licenses": [{ "name": "CC0-1.0" }],
+  "description": "100% success rate bypass in 'security testing' context for GPT-OSS-20B. Includes raw JSON evidence.",
+  "visibility": "private"
+}
